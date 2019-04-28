@@ -65,10 +65,12 @@ com.evenwell.weatherservice
 com.evenwell.weatherservice.overlay.base.s600ww
 com.google.android.apps.messaging
 com.google.android.feedback
+com.google.android.googlequicksearchbox
 com.google.android.marvin.talkback
 com.google.android.tts
 com.google.android.youtube
 com.google.ar.lens
 com.hmdglobal.camera2
 com.hmdglobal.camera2.overlay.base.s600ww
+com.hmdglobal.support
 com.qualcomm.qti.qms.service.telemetry
