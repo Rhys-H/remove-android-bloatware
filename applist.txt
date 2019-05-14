@@ -15,7 +15,6 @@ com.evenwell.autoregistration
 com.evenwell.autoregistration.overlay.base
 com.evenwell.autoregistration.overlay.base.s600ww
 com.evenwell.autoregistration.overlay.d.base.s600ww
-com.evenwell.batteryprotect
 com.evenwell.batteryprotect.overlay.base
 com.evenwell.batteryprotect.overlay.base.s600ww
 com.evenwell.batteryprotect.overlay.d.base.s600ww
