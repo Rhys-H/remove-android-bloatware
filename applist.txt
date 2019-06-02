@@ -11,6 +11,8 @@ com.android.partnerbrowsercustomizations
 com.android.partnerbrowsercustomizations.btl.s600ww.overlay
 com.android.providers.calendar.overlay.base.s600ww
 com.android.providers.partnerbookmarks
+com.android.providers.settings.btl.s600ww.overlay
+com.android.providers.settings.overlay.base.s600ww
 com.android.retaildemo
 com.android.retaildemo.overlay.base.s600ww
 com.android.systemui.overlay.base.s600ww
@@ -130,5 +132,6 @@ com.hmdglobal.datago
 com.hmdglobal.datago.overlay.base.s600ww
 com.hmdglobal.support
 com.hmdglobal.US601.messaging.overlay.base.s600ww
+com.nbc.intellirecog.overlay.base.s600ww
 com.qualcomm.qti.qms.service.telemetry
 com.qualcomm.qti.qms.service.trustzoneaccess
