@@ -136,6 +136,13 @@ com.hmdglobal.datago.overlay.base.s600ww
 com.hmdglobal.support
 com.hmdglobal.US601.messaging.overlay.base.s600ww
 com.nbc.intellirecog.overlay.base.s600ww
+com.oneplus.filemanager
+com.oneplus.filemanager.black.overlay
+com.oneplus.filemanager.white.overlay
+com.oneplus.gamespace
+com.oneplus.gamespace.black.overlay
+com.oneplus.gamespace.white.overlay
+com.oneplus.mms
 com.oneplus.opbugreportlite
 com.qualcomm.qti.qms.service.telemetry
 com.qualcomm.qti.qms.service.trustzoneaccess
