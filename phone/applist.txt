@@ -144,6 +144,7 @@ com.oneplus.gamespace.black.overlay
 com.oneplus.gamespace.white.overlay
 com.oneplus.mms
 com.oneplus.opbugreportlite
+com.oneplus.twspods
 com.qualcomm.qti.qms.service.telemetry
 com.qualcomm.qti.qms.service.trustzoneaccess
 net.oneplus.odm
