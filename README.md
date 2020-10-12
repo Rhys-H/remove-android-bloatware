@@ -6,6 +6,11 @@
 
 ## Usage
 
+- Install [ADB](https://developer.android.com/studio/releases/platform-tools#downloads) on your computer
+- Enable [Developer Options](https://developer.android.com/studio/debug/dev-options#enable) on your Android phone
+- Enable USB Debugging on your Android phone (in the Developer Options)
+- Run `adb devices` on your computer
+  - You may need to accept the debugging USB connection on your Android phone if it's your first time
 - [Simple] Run `UninstallPackages.sh` to remove packages deemed as bloatware by the author of the
   script
 - [Advanced] Use the `FindPackages.sh` commands as inspiration, and the `adb shell pm list packages`
