@@ -114,7 +114,9 @@ com.evenwell.UsageStatsLogReceiver.data.overlay.base
 com.evenwell.UsageStatsLogReceiver.data.overlay.base.s600ww
 com.evenwell.weatherservice
 com.evenwell.weatherservice.overlay.base.s600ww
+com.example.wifirftest
 com.fih.StatsdLogger
+com.fingerprints.fingerprintsensortest
 com.google.android.apps.magazines
 com.google.android.apps.messaging
 com.google.android.apps.tachyon
@@ -136,6 +138,13 @@ com.hmdglobal.datago.overlay.base.s600ww
 com.hmdglobal.support
 com.hmdglobal.US601.messaging.overlay.base.s600ww
 com.nbc.intellirecog.overlay.base.s600ww
+com.oem.autotest
+com.oem.logkitsdservice
+com.oem.oemlogkit
+com.oneplus.brickmode
+com.oneplus.bttestmode
+com.oneplus.factorymode
+com.oneplus.factorymode.specialtest
 com.oneplus.filemanager
 com.oneplus.filemanager.black.overlay
 com.oneplus.filemanager.white.overlay
@@ -147,4 +156,9 @@ com.oneplus.opbugreportlite
 com.oneplus.twspods
 com.qualcomm.qti.qms.service.telemetry
 com.qualcomm.qti.qms.service.trustzoneaccess
+com.tencent.soter.soterserver
+net.oneplus.commonlogtool
+net.oneplus.forums
 net.oneplus.odm
+net.oneplus.odm.provider
+net.oneplus.provider.appcategoryprovider
